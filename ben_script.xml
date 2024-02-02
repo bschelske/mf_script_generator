@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <type>Script</type>
+  <segment>
+	<sequence>1</sequence>
+	<filename>channel_1_20kHz.xml</filename>
+	<runtime>600</runtime>
+  </segment>
+  <segment>
+	<sequence>2</sequence>
+	<filename>all_off.xml</filename>
+	<runtime>120</runtime>
+  </segment>
+</root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <type>Settings</type>
+  <comment>This will turn on channel 1 while maintaining amp settings.</comment>
+  <channel>
+    <number>1</number>
+	<frequency>50</frequency>
+	<enable>true</enable>
+  </channel>
+</root>
